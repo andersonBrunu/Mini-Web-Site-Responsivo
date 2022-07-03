@@ -8,7 +8,7 @@
 
 ## Mobile
 <div align="center">
-<img src="https://user-images.githubusercontent.com/23111969/177049225-e1b04600-608a-4cfe-a636-d354cd274437.png"/>
+<img src="https://user-images.githubusercontent.com/23111969/177049312-72e46ab3-f074-46c6-ba9d-f9fa15c77419.png"/>
 </div>
 
 
